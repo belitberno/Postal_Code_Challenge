@@ -1,6 +1,6 @@
 # Portugal Postal Code Challenge
 
-![Códigos Postais de Portugal](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/C%C3%B3digos_postais_Portugal.png/800px-C%C3%B3digos_postais_Portugal.png)
+![Códigos Postais de Portugal](https://e7.pngegg.com/pngimages/752/653/png-clipart-mail-postal-code-computer-icons-envelope-miscellaneous-sign-thumbnail.png)
 
 
 ## Índice
