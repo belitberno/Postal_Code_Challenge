@@ -40,6 +40,8 @@ Este projeto é uma solução para o desafio de códigos postais proposto pela N
 1. **Pré-requisitos**:
    - Python instalado na máquina.
    - Jupyter Notebook instalado.
+   - Bibliotecas Python instaladas no ambiente.
+   - SQLite 3 instalado.
    
 2. **Clonar o repositório**:
 
