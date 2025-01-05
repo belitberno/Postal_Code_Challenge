@@ -1,6 +1,6 @@
 # Portugal Postal Code Challenge
 
-([https://img.shields.io/badge/status-em%20desenvolvimento-yellow](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Postal_Codes_of_Portugal.png/640px-Postal_Codes_of_Portugal.png))
+[]([https://img.shields.io/badge/status-em%20desenvolvimento-yellow](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Postal_Codes_of_Portugal.png/640px-Postal_Codes_of_Portugal.png))
 
 ## Índice
 
