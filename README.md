@@ -1,6 +1,6 @@
-# Postal Code Challenge
+# Portugal Postal Code Challenge
 
-![Badge indicando o status do projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+([https://img.shields.io/badge/status-em%20desenvolvimento-yellow](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Postal_Codes_of_Portugal.png/640px-Postal_Codes_of_Portugal.png))
 
 ## Índice
 
@@ -14,7 +14,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é uma solução para o desafio de códigos postais proposto pela NOS. O objetivo é [descrever brevemente o objetivo do desafio e o que o projeto faz].
+Este projeto é uma solução para o desafio de códigos postais proposto pela NOS. O objetivo é utilizando ferramentas de pesquisa, sites com informações de Códigos Postais ou APIs disponíveis na internet, deverás encontrar as informações correspondentes ao concelho e distrito para cada código postal.
 
 ## Status do Projeto
 
@@ -23,22 +23,23 @@ Este projeto é uma solução para o desafio de códigos postais proposto pela N
 ## Funcionalidades
 
 - Validação de códigos postais conforme critérios específicos.
-- [Outras funcionalidades implementadas].
+- Desenvolver um programa que automatize a busca e enriquecimento dos dados.
+- O programa deve gerar uma base dados dos codigos postais + concelho + distrito.
+- Criação de API para busca de todos os codigos e outra, para busca de um código especifico.
 
 ## Tecnologias Utilizadas
 
 - Python
 - Jupyter Notebook
 - SQLite (para o arquivo `codigos_postais.db`)
-- [Outras tecnologias ou bibliotecas relevantes]
+- Instalar as bibliotecas mencionadas no arquivo com os códigos.
 
 ## Como Executar o Projeto
 
 1. **Pré-requisitos**:
    - Python instalado na máquina.
    - Jupyter Notebook instalado.
-   - [Outras dependências, se houver].
-
+   
 2. **Clonar o repositório**:
 
    ```bash
